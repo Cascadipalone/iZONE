@@ -1,0 +1,2 @@
+# Dailyinn
+.editorconfig
